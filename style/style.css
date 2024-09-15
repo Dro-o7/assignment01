@@ -55,10 +55,7 @@ nav button{
     border-radius: 9px;
     padding: 20px;
     margin-bottom: 45px;
-}
-.pt1 button a{
-    text-decoration: none;
-    color: white;
+
 }
 /* Part 2 description */
 /* Global desc Card */
@@ -181,8 +178,9 @@ iframe{
     margin: 30px  150px 100px 150px;
     text-align: center;
     padding: 64px 148px;
+    text-decoration: none;
 }
-#fbar{
+.fbar{
     border-radius: 9px;
     padding: 15px;
     font-size: 17px;
