@@ -29,7 +29,7 @@ nav button{
 /* Main */
 /* Part 1 hero intro */
 .pt1{
-    background-image: url("/assets/Hero-bg.png");
+    background-image: url("../assets/Hero-bg.png");
     text-align: center;
     margin: 0px 30px;   
 }
@@ -124,7 +124,7 @@ iframe{
     padding: 32px;
 }
 .tcard-html{
-    background-image: url("/assets/HTML.jpg");
+    background-image: url("../assets/html.png");
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(255, 255, 255, 0.8);
@@ -135,7 +135,7 @@ iframe{
     padding: 12px 24px;
 }
 .tcard-js{
-    background-image: url("/assets/JSS.png");
+    background-image: url("../assets/JSS.png");
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(255, 255, 255, 0.8);
@@ -146,7 +146,7 @@ iframe{
     padding: 12px 24px;
 }
 .tcard-css{
-    background-image: url("/assets/CSSs.png");
+    background-image: url("../assets/css.png");
     background-repeat: no-repeat;
     background-position: center;
     background-color: rgba(255, 255, 255, 0.9);
@@ -170,7 +170,7 @@ iframe{
 }
 /* Feedback bar */
 .feedback{
-    background-image: url("/assets/handshake.jpg");
+    background-image: url("../assets/handshake.jpg");
     background-size: cover;
     background-position: center;
     border-radius: 16px;
@@ -202,7 +202,7 @@ footer{
     background-color: grey;
     margin: 30px 550px;
     border-radius: 16px;
-    background-image: url("/assets/footer.png");
+    background-image: url("../assets/footer.png");
 }
 footer h3{
     padding: 8px;
